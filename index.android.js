@@ -17,14 +17,13 @@ export default class cravings extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Cravings App Son!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.android.js
+          This is how you are going to creating cravings son!
         </Text>
         <Text style={styles.instructions}>
-          Double tap R on your keyboard to reload,{'\n'}
-          Shake or press menu button for dev menu
+          Click here for your first call to action
         </Text>
       </View>
     );
