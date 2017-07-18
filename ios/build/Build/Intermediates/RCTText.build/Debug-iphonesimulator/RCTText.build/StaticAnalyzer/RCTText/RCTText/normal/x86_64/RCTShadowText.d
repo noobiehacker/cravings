@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/davix/Source/cravings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/davix/Source/cravings/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h
